@@ -1,0 +1,1 @@
+Cieľom je vytvoriť webovú aplikáciu, v ktorej si študenti budú vyberať prácu podľa rôznych kritérii, napr. výšky odmeny. Výber študentov sa ukladá do dátabázy a vyhodnocuje a vizualizuje pre potreby výskumu v definovaných pohľadoch.
